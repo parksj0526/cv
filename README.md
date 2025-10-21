@@ -4,5 +4,5 @@
 File Structure
 ```bash
 cv/
- ┣ knn_assignment_1.ipynb # Main notebook (all cells)
- ┗ README.md              # Project documentation
+ ┣ TP1_KNN_Assignment.ipynb # Main notebook (all cells)
+ ┗ README.md                # Project documentation
